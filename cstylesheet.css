@@ -1,0 +1,23 @@
+.full-width{
+	width:1200px;
+}
+.half-width{
+	width:600px;
+}
+h1{
+	font-family: 'Nunito', sans-serif;
+	font-size:30px;
+	color: mediumseagreen;
+}
+span{
+	color:cornflowerblue;
+}
+
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+	font-family: 'Nunito', sans-serif;
+	color:mediumseagreen;
+	text-decoration:none;
+}
